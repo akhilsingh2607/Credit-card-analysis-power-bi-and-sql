@@ -6,9 +6,6 @@
 
 ### 📅 Week 53 (31st Dec)
 - Revenue increased by **28.8% WoW**  
-- Total Transaction Amount & Count increased by **xx% & xx%**  
-- Customer count increased by **xx%**
-
 ### 📊 Year-to-Date (YTD) Overview
 - **Overall Revenue**: 57M  
 - **Total Interest Earned**: 8M  
